@@ -1,2 +1,5 @@
 # Alidiver_related
 主要用于搭载infuse的便捷操作
+根据infuse可以刮削到的命名格式进行批量重命名
+使用原产国名称增加infuse数据准确性
+数据来源于TMDb，仅用于个人用途
